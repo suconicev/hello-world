@@ -1,2 +1,2 @@
 # hello-world
-just a first trial
+just a trial repo
